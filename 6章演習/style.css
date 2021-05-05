@@ -5,22 +5,26 @@
 }
 
 .haru {
-  background-image: url(img/box1.jpeg);
+  height: 200px;
+  background-image: url(img/box1.jpg);
   background-size: cover;
   background-position: center;
 }
 .natu {
-  background-image: url(img/box2.jpeg);
+  height: 200px;
+  background-image: url(img/box2.jpg);
   background-size: cover;
   background-position: center;
 }
 .aki {
-  background-image: url(img/box3.jpeg);
+  height: 200px;
+  background-image: url(img/box3.jpg);
   background-size: cover;
   background-position: center;
 }
 .fuyu {
-  background-image: url(img/box4.jpeg);
+  height: 200px;
+  background-image: url(img/box4.jpg);
   background-size: cover;
   background-position: center;
 }
