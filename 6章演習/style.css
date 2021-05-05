@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.haru {
+  background-image: url(img/box1.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+.natu {
+  background-image: url(img/box2.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+.aki {
+  background-image: url(img/box3.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+.fuyu {
+  background-image: url(img/box4.jpeg);
+  background-size: cover;
+  background-position: center;
+}
